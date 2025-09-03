@@ -742,11 +742,14 @@ body {
 
 /* markdown prose */
 .prose {
-  color: #374151;              /* neutral text */
-  max-width: 65ch;             /* readable width */
-  line-height: 1.75;           /* good spacing */
-  font-size: 1rem;             /* base size */
+  color: #374151;
+  max-width: 80rem;            /* big but still readable */
+  margin: 0 auto;              /* center it */
+  padding: 0 1rem;             /* breathing room on mobile */
+  line-height: 1.75;
+  font-size: 1rem;
 }
+
 
 .prose h1 {
   font-size: 2.25rem;
