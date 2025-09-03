@@ -632,7 +632,7 @@ body {
   margin-top: 1.25rem;
   position: fixed;
   bottom: 0.75rem;
-  right: 0.75rem;
+  left: 0.75rem;
 }
 
 .view-text {
@@ -749,7 +749,6 @@ body {
   line-height: 1.75;
   font-size: 1rem;
 }
-
 
 .prose h1 {
   font-size: 2.25rem;
